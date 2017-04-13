@@ -1,0 +1,13 @@
+<component info='CentraStage Component'>
+  <general>
+    <name>Clear Windows Temp Directories</name>
+    <category>scripts</category>
+    <description>Clear all Windows temp directories</description>
+    <uid>a8ac29f3-9913-4642-8806-7d55aca11214</uid>
+    <hash />
+    <version>5</version>
+    <timeout>3600</timeout>
+    <securityLevel>5</securityLevel>
+    <installType>powershell</installType>
+  </general>
+</component>
